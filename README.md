@@ -4,13 +4,13 @@
 
 </div>
 
-## AgentNetworkProtocol(ANP)
+## AgentNetworkProtocol (ANP)
 
 ### Vision
 
-AgentNetworkProtocol(ANP) is an open source protocol for agent communication.
+AgentNetworkProtocol (ANP) is an open-source protocol for agent communication.
 
-AgentNetworkProtocol(ANP) aims to become **the HTTP of the Agentic Web era**.
+AgentNetworkProtocol (ANP) aims to become **the HTTP of the Agentic Web era**.
 
 Our vision is to **define how agents connect with each other, building an open, secure, and efficient collaboration network for billions of intelligent agents**.
 
@@ -18,7 +18,7 @@ Our vision is to **define how agents connect with each other, building an open, 
   <img src="/images/agentic-web3.png" width="50%" alt="Agentic Web"/>
 </p>
 
-While current internet infrastructure is well-established, there's still a lack of optimal communication and connection solutions for the specific needs of agent networks. We are committed to addressing three major challenges faced by agent networks:
+While the current internet infrastructure is well-established, there's still a lack of optimal communication and connection solutions for the specific needs of agent networks. We are committed to addressing three major challenges faced by agent networks:
 
 - 🌐 **Interconnectivity**: Enable communication between all agents, break down data silos, and ensure AI has access to complete contextual information.
 - 🖥️ **Native Interfaces**: AI shouldn't need to mimic human internet interaction; instead, it should interact with the digital world through its most proficient means (APIs or communication protocols).
@@ -32,7 +32,7 @@ While current internet infrastructure is well-established, there's still a lack 
   <img src="/images/anp-architecture.png" width="50%" alt="Protocol Layer Design"/>
 </p>
 
-- 🔒 **Identity and Encrypted Communication Layer**: Based on W3C DID (Decentralized Identifiers) specification, we build a decentralized authentication scheme and end-to-end encrypted communication solution on existing mature web infrastructure. This enables agents across any platforms to authenticate each other without relying on centralized systems.
+- 🔒 **Identity and Encrypted Communication Layer**: Based on the W3C DID (Decentralized Identifiers) specification, we build a decentralized authentication scheme and end-to-end encrypted communication solution on existing mature web infrastructure. This enables agents across any platforms to authenticate each other without relying on centralized systems.
 - 🌍 **Meta-Protocol Layer**: The meta-protocol is a protocol for negotiating communication protocols between agents. It is key to evolving agent networks into automatic-organizing, self-negotiating efficient collaboration networks.
 - 📡 **Application Protocol Layer**: Based on semantic web specifications, this layer enables agents to describe their capabilities and supported application protocols, and efficiently manage these protocols.
 
@@ -116,7 +116,7 @@ Both protocol development and open-source implementation are progressing in the 
   - [x] Support for agent description.
   - [x] Support for agent discovery.
 
-To establish Agent Network Protocol(ANP) as an industry standard, we plan to form an ANP Standardization Committee at an appropriate time, working towards recognition by international standardization organizations like W3C.
+To establish Agent Network Protocol (ANP) as an industry standard, we plan to form an ANP Standardization Committee at an appropriate time, working towards recognition by international standardization organizations like W3C.
 
 ### Contact Us
 
